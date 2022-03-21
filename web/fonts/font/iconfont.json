@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2762",
+      "name": "淘宝网",
+      "font_class": "taobaowang",
+      "unicode": "f0256",
+      "unicode_decimal": 983638
+    },
+    {
+      "icon_id": "829609",
+      "name": "腾讯网",
+      "font_class": "icon2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "829656",
+      "name": "当当网",
+      "font_class": "dangdangwang",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "829661",
+      "name": "爱奇艺",
+      "font_class": "aiqiyi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "833330",
+      "name": "唯品会",
+      "font_class": "weipinhui",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "833694",
+      "name": "京东",
+      "font_class": "jingdong",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}
